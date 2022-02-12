@@ -1,0 +1,14 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 15000,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[go]": {
+    "editor.insertSpaces": false,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.defaultFormatter": "golang.go"
+  }
+}
